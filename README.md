@@ -6,17 +6,21 @@ This repository contains my Round 2 submission for the **DeepThought Data Champi
 
 ## 🧾 Deliverables
 
-| File | Description |
-|------|-------------|
-| [`pdfs/Final_Submission_Pack.pdf`](./pdfs/Final_Submission_Pack.pdf) | All-in-one PDF for quick review |
-| [`docs/Part1_Funnel_Design.docx`](./docs/Part1_Funnel_Design.docx) | Funnel stages, lifecycle logic, CRM ownership |
-| [`docs/Part2_Nurturing_Strategy.docx`](./docs/Part2_Nurturing_Strategy.docx) | Lead nurturing design based on intent |
-| [`docs/Part3_CAC_Analytics.docx`](./docs/Part3_CAC_Analytics.docx) | CAC analysis, experiments, dashboard planning |
-| [`docs/Part4_Strategic_Summary.docx`](./docs/Part4_Strategic_Summary.docx) | Strategic mindset and system clarity reflection |
-| [`pdfs/Part1_Funnel_Design.pdf`](./pdfs/Part1_Funnel_Design.pdf) | PDF version of Part 1 |
-| [`pdfs/Part2_Nurturing_Strategy.pdf`](./pdfs/Part2_Nurturing_Strategy.pdf) | PDF version of Part 2 |
-| [`pdfs/Part3_CAC_Analytics.pdf`](./pdfs/Part3_CAC_Analytics.pdf) | PDF version of Part 3 |
-| [`pdfs/Part4_Strategic_Summary.pdf`](./pdfs/Part4_Strategic_Summary.pdf) | PDF version of Part 4 |
+📘 **Final Submission Pack**
+- [Download PDF](pdfs/Final_Submission_Pack.pdf)
+
+📁 **Individual Parts – DOCX**
+- [Part 1 – Funnel Design](docs/Part1_Funnel_Design.docx)
+- [Part 2 – Nurturing Strategy](docs/Part2_Nurturing_Strategy.docx)
+- [Part 3 – CAC Analytics](docs/Part3_CAC_Analytics.docx)
+- [Part 4 – Strategic Summary](docs/Part4_Strategic_Summary.docx)
+
+📁 **Individual Parts – PDF**
+- [Part 1 – Funnel Design (PDF)](pdfs/Part1_Funnel_Design.pdf)
+- [Part 2 – Nurturing Strategy (PDF)](pdfs/Part2_Nurturing_Strategy.pdf)
+- [Part 3 – CAC Analytics (PDF)](pdfs/Part3_CAC_Analytics.pdf)
+- [Part 4 – Strategic Summary (PDF)](pdfs/Part4_Strategic_Summary.pdf)
+
 
 ---
 
