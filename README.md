@@ -4,45 +4,43 @@ This repository contains my Round 2 submission for the **DeepThought Data Champi
 
 ---
 
-## 🧾 Deliverables
+## 🧾 Final Submission
 
-📘 **Final Submission Pack**
-- [Download PDF](pdfs/Final_Submission_Pack.pdf)
+📘 **Download Final Submission Pack (PDF):**  
+[Final_Submission_Pack.pdf](./Final_Submission_Pack.pdf)
 
-📁 **Individual Parts – DOCX**
-- [Part 1 – Funnel Design](docs/Part1_Funnel_Design.docx)
-- [Part 2 – Nurturing Strategy](docs/Part2_Nurturing_Strategy.docx)
-- [Part 3 – CAC Analytics](docs/Part3_CAC_Analytics.docx)
-- [Part 4 – Strategic Summary](docs/Part4_Strategic_Summary.docx)
-
-📁 **Individual Parts – PDF**
-- [Part 1 – Funnel Design (PDF)](pdfs/Part1_Funnel_Design.pdf)
-- [Part 2 – Nurturing Strategy (PDF)](pdfs/Part2_Nurturing_Strategy.pdf)
-- [Part 3 – CAC Analytics (PDF)](pdfs/Part3_CAC_Analytics.pdf)
-- [Part 4 – Strategic Summary (PDF)](pdfs/Part4_Strategic_Summary.pdf)
-
+This file includes all 4 parts merged together in one clean and formatted document.
 
 ---
 
 ## 📂 File Structure
 
-- `/docs/` — All `.docx` documents for individual parts
-- `/pdfs/` — PDF versions of each task and final pack
+- `docs/` – Original `.docx` files (editable)
+- `pdfs/` – Individual `.pdf` versions of each part
+- `Final_Submission_Pack.pdf` – Merged final report for review
 
 ---
 
-## 🧠 What This Submission Covers
+## 📁 Individual Task Files
 
-- Funnel design simulation and CRM stage architecture
-- Role-based automation strategy in CRM setup
-- Nurturing strategy by lead intent using AI tooling
-- Funnel analytics with CAC:LTV dashboard logic
-- Strategic lens as a Data Champion: clarity, systems, insight
+### 📄 DOCX Files (in `/docs/`)
+- [Part 1 – Funnel Design](docs/Part1_Funnel_Design.docx)
+- [Part 2 – Nurturing Strategy](docs/Part2_Nurturing_Strategy.docx)
+- [Part 3 – CAC Analytics](docs/Part3_CAC_Analytics.docx)
+- [Part 4 – Strategic Summary](docs/Part4_Strategic_Summary.docx)
+
+### 📄 PDF Files (in `/pdfs/`)
+- [Part 1 – Funnel Design (PDF)](pdfs/Part1_Funnel_Design.pdf)
+- [Part 2 – Nurturing Strategy (PDF)](pdfs/Part2_Nurturing_Strategy.pdf)
+- [Part 3 – CAC Analytics (PDF)](pdfs/Part3_CAC_Analytics.pdf)
+- [Part 4 – Strategic Summary (PDF)](pdfs/Part4_Strategic_Summary.pdf)
 
 ---
 
-## 🧭 Summary
+## 🧠 Summary
 
-Rather than just tracking leads, this CRM system is designed to **drive clarity**, **scale smart decisions**, and reduce the **cost of confusion**. It's not just a reporting tool — it’s the operating system for growth.
+Rather than just tracking leads, this CRM system is designed to drive **clarity**, scale **smart decisions**, and reduce the **cost of confusion**. It's not just a reporting tool — it’s the operating system for growth.
 
 ---
+
+📬 Feel free to explore the documents and reach out for any feedback!
