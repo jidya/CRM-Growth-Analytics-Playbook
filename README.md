@@ -8,39 +8,37 @@ This repository contains my Round 2 submission for the **DeepThought Data Champi
 
 | File | Description |
 |------|-------------|
-| [`Part1_Funnel_Design.docx`](./Part1_Funnel_Design.docx) | Funnel stages, lifecycle ownership, and CRM transition logic |
-| [`Part2_Nurturing_Strategy.docx`](./Part2_Nurturing_Strategy.docx) | Intent-based nurturing design, touchpoints, automation logic |
-| [`Part3_CAC_Analytics.docx`](./Part3_CAC_Analytics.docx) | Channel-wise CAC insights, experiments, and dashboard plan |
-| [`Part4_Strategic_Summary.docx`](./Part4_Strategic_Summary.docx) | Reflection on data clarity, systems thinking, and design logic |
-| [`Final_Submission_Pack.pdf`](./Final_Submission_Pack.pdf) | Combined report of all parts for easy reading and evaluation |
+| [`pdfs/Final_Submission_Pack.pdf`](./pdfs/Final_Submission_Pack.pdf) | All-in-one PDF for quick review |
+| [`docs/Part1_Funnel_Design.docx`](./docs/Part1_Funnel_Design.docx) | Funnel stages, lifecycle logic, CRM ownership |
+| [`docs/Part2_Nurturing_Strategy.docx`](./docs/Part2_Nurturing_Strategy.docx) | Lead nurturing design based on intent |
+| [`docs/Part3_CAC_Analytics.docx`](./docs/Part3_CAC_Analytics.docx) | CAC analysis, experiments, dashboard planning |
+| [`docs/Part4_Strategic_Summary.docx`](./docs/Part4_Strategic_Summary.docx) | Strategic mindset and system clarity reflection |
+| [`pdfs/Part1_Funnel_Design.pdf`](./pdfs/Part1_Funnel_Design.pdf) | PDF version of Part 1 |
+| [`pdfs/Part2_Nurturing_Strategy.pdf`](./pdfs/Part2_Nurturing_Strategy.pdf) | PDF version of Part 2 |
+| [`pdfs/Part3_CAC_Analytics.pdf`](./pdfs/Part3_CAC_Analytics.pdf) | PDF version of Part 3 |
+| [`pdfs/Part4_Strategic_Summary.pdf`](./pdfs/Part4_Strategic_Summary.pdf) | PDF version of Part 4 |
 
 ---
 
-## 🔍 What This Submission Covers
+## 📂 File Structure
 
-- Funnel design simulation with lifecycle stages, criteria, and team responsibilities
-- CRM configuration blueprint (core fields, automations, role-based dashboards)
-- Nurturing strategy for high, mid, and low intent leads using AI tooling
-- CAC vs LTV analysis and optimization experiments
-- A storytelling-driven growth summary from a system builder’s lens
+- `/docs/` — All `.docx` documents for individual parts
+- `/pdfs/` — PDF versions of each task and final pack
 
 ---
 
-## 💡 Key Concepts Applied
+## 🧠 What This Submission Covers
 
-- CRM lifecycle architecture
-- Funnel automation strategies
-- AI-assisted engagement design
-- Customer Acquisition Cost vs Lifetime Value analysis
-- Dashboard planning for growth visibility
+- Funnel design simulation and CRM stage architecture
+- Role-based automation strategy in CRM setup
+- Nurturing strategy by lead intent using AI tooling
+- Funnel analytics with CAC:LTV dashboard logic
+- Strategic lens as a Data Champion: clarity, systems, insight
 
 ---
 
 ## 🧭 Summary
 
-This playbook reflects how I approach clarity, structure, and empathy in system design.  
-Rather than just tracking leads, the goal was to design a CRM that drives **insight**, **action**, and **growth alignment** — where every touchpoint is meaningful and measurable.
+Rather than just tracking leads, this CRM system is designed to **drive clarity**, **scale smart decisions**, and reduce the **cost of confusion**. It's not just a reporting tool — it’s the operating system for growth.
 
 ---
-
-📂 **Feel free to explore the documents above. Feedback is welcome!**
